@@ -1,0 +1,34 @@
+.first{
+    font-family: sans-serif;
+    border: 3px solid green;
+    padding: 4px;
+    margin: 12px;
+}
+.second{
+    color: darkred;
+}
+.golly{
+    font-style: italic;
+}
+img{
+    float:left;
+    padding: 4px;
+}
+.sidebar{
+    width: 30%;
+    float: right;
+    background-color: darkgoldenrod;
+}
+.column{
+    width: 370px;
+    float: left;
+}
+.actual_words{
+    width: 740px;
+    float: left;
+    border: 2px solid green;
+    padding: 4px;
+    margin: 18px;
+    background-color: orange
+    
+}
